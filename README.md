@@ -24,8 +24,7 @@ Carga horária: 2 horas.
 2. PIBIC 2021/2022 e PIBEX 2021\
 Carga horária: 4h
 
-3.Oficina/Workshop - Inclusão e Desafios: Abordando o tema Deficiência em uma Sociedade Capacitista\
-Carga horária: 2h
+3. Oficina/Workshop - Inclusão e Desafios: Abordando o tema Deficiência em uma Sociedade Capacitista\Carga horária: 2h
 
 4. As evoluções históricas dos computadores\
 Carga horária: 2h
