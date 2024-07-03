@@ -4,7 +4,7 @@
 Este projeto faz parte da disciplina tal Projeto Integrador 2, onde estamos abordando conceitos básicos da utilização do git e git-hub e criação de currículo.
 
 # CÚRRICULO BÁSICO
-("https://www.linkedin.com/in/r%C3%ADlary-cavalcante-988037301?trk=contact-info")
+[Currículo Linkedin]("https://www.linkedin.com/in/r%C3%ADlary-cavalcante-988037301?trk=contact-info")
 ## DADOS PESSOAIS
 
 Nome: Rílary Cavalcante de Souza\
