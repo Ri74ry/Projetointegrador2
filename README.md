@@ -18,33 +18,33 @@ Autualmente cursa Técnico em Informática - Instituto Federal do Amazonas Campu
 
 ## FORMAÇÃO COMPLEMENTAR
 
-1. Oficina de xadrez\
+1. Oficina - Xadrez\
 Carga horária: 2 horas.
 
 2. PIBIC 2021/2022 e PIBEX 2021\
 Carga horária: 4h
 
-3. Oficina/Workshop - Inclusão e Desafios: Abordando o tema Deficiência em uma Sociedade Capacitista\Carga horária: 2h
+3. Oficina - Workshop - Inclusão e Desafios: Abordando o tema Deficiência em uma Sociedade Capacitista\Carga horária: 2h
 
-4. As evoluções históricas dos computadores\
+4. Exposição - As evoluções históricas dos computadores\
 Carga horária: 2h
 
-5. EXPOSIÇÃO -SEMANA DE PESQUISA E EXTENSÃO - IFAM CAMPUS EIRUNEPÉ\
+5. Exposição - SEMANA DE PESQUISA E EXTENSÃO - IFAM CAMPUS EIRUNEPÉ\
 Carga horária: 40 horas.
 
 6. Metaverso: uma imersão educacional\
 Carga horária: 2h
 
-7. FILME - O menino que descobriu o vento\
+7. Filme - O menino que descobriu o vento\
 Carga horária: 2h
 
 8. Palestra - O homem e o meio ambiente\
 Carga horária> 1h
 
-9. EXPOSIÇÃO - PIBIC/PIBEX/NEABI FIC/NUPA/NEPEF/IF EMPREENDEDOR\
+9. Exposição - PIBIC/PIBEX/NEABI FIC/NUPA/NEPEF/IF EMPREENDEDOR\
 Carga horária: 4h
 
-10. EVENTO - Dia Nacional dos Povos Inígenas/NEABI\
+10. Eento - Dia Nacional dos Povos Inígenas/NEABI\
 Carga horária: 4h
 
 
