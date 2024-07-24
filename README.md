@@ -19,34 +19,43 @@ Autualmente cursa Técnico em Informática - Instituto Federal do Amazonas Campu
 ## FORMAÇÃO COMPLEMENTAR
 
 1. Oficina - Xadrez\
-Carga horária: 2 horas.
+Carga horária: 2h.
 [Certificado 1](1.pdf)
 
-3. PIBIC 2021/2022 e PIBEX 2021\
-Carga horária: 4h
+2.PIBIC 2021/2022 e PIBEX 2021\
+Carga horária: 4h.
+[Certificado 2](2.pdf)
 
-4. Oficina - Workshop - Inclusão e Desafios: Abordando o tema Deficiência em uma Sociedade Capacitista\Carga horária: 2h
+3. Oficina - Workshop - Inclusão e Desafios: Abordando o tema Deficiência em uma Sociedade Capacitista\
+Carga horária: 2h.
+[Certificado 3](3.pdf)
 
-5. Exposição - As evoluções históricas dos computadores\
-Carga horária: 2h
+4. Exposição - As evoluções históricas dos computadores\
+Carga horária: 2h.
+[Certificado 4](4.pdf)
 
-6. Evento - SEMANA DE PESQUISA E EXTENSÃO - IFAM CAMPUS EIRUNEPÉ\
-Carga horária: 40 horas.
+5. Evento - SEMANA DE PESQUISA E EXTENSÃO - IFAM CAMPUS EIRUNEPÉ\
+Carga horária: 40h.
+[Certificado 5](5.pdf)
 
-7. Metaverso: uma imersão educacional\
-Carga horária: 2h
+6. Metaverso: uma imersão educacional\
+Carga horária: 2h.
+[Certificado 6](6.pdf)
 
-8. Filme - O menino que descobriu o vento\
-Carga horária: 2h
+7. Filme - O menino que descobriu o vento\
+Carga horária: 2h.
+[Certificado 7](7.pdf)
 
-9. Palestra - O homem e o meio ambiente\
-Carga horária> 1h
+8. Palestra - O homem e o meio ambiente\
+Carga horária: 1h.
+[Certificado 8](8.pdf)
 
-10. Exposição - PIBIC/PIBEX/NEABI FIC/NUPA/NEPEF/IF EMPREENDEDOR\
-Carga horária: 4h
+9. Exposição - PIBIC/PIBEX/NEABI FIC/NUPA/NEPEF/IF EMPREENDEDOR\
+Carga horária: 4h.
+[Certificado 9](9.pdf)
 
-11. Evento - Dia Nacional dos Povos Inígenas/NEABI\
-Carga horária: 4h
-
+10. Evento - Dia Nacional dos Povos Inígenas/NEABI\
+Carga horária: 4h.
+[Certificado 10](10.jpg)
 
 
