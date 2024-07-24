@@ -29,7 +29,7 @@ Carga horária: 4h
 4. Exposição - As evoluções históricas dos computadores\
 Carga horária: 2h
 
-5. Exposição - SEMANA DE PESQUISA E EXTENSÃO - IFAM CAMPUS EIRUNEPÉ\
+5. Evento - SEMANA DE PESQUISA E EXTENSÃO - IFAM CAMPUS EIRUNEPÉ\
 Carga horária: 40 horas.
 
 6. Metaverso: uma imersão educacional\
@@ -44,7 +44,7 @@ Carga horária> 1h
 9. Exposição - PIBIC/PIBEX/NEABI FIC/NUPA/NEPEF/IF EMPREENDEDOR\
 Carga horária: 4h
 
-10. Eento - Dia Nacional dos Povos Inígenas/NEABI\
+10. Evento - Dia Nacional dos Povos Inígenas/NEABI\
 Carga horária: 4h
 
 
