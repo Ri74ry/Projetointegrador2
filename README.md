@@ -22,7 +22,7 @@ Autualmente cursa Técnico em Informática - Instituto Federal do Amazonas Campu
 Carga horária: 2h.
 [Certificado 1](1.pdf)
 
-2.PIBIC 2021/2022 e PIBEX 2021\
+2. PIBIC 2021/2022 e PIBEX 2021\
 Carga horária: 4h.
 [Certificado 2](2.pdf)
 
