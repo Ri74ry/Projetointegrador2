@@ -44,5 +44,8 @@ Carga horária> 1h
 9. EXPOSIÇÃO - PIBIC/PIBEX/NEABI FIC/NUPA/NEPEF/IF EMPREENDEDOR\
 Carga horária: 4h
 
+10. EVENTO - Dia Nacional dos Povos Inígenas/NEABI\
+Carga horária: 4h
+
 
 
